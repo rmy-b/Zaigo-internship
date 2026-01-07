@@ -1,0 +1,4 @@
+Internship day 2. learning about file handling
+Checking whether write will append or overwrite
+Checking r+ mode, here the content will overwrite if no seek value is given and to read also seek is important
+ learned about a+ mode
